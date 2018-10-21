@@ -16,6 +16,7 @@ Editor: Allen Johnson
 
 Posting Date: February 22, 2009 [EBook #3036]
 Release Date: January, 2002
+Last Updated: September 6, 2015
 
 Language: English
 
@@ -360,7 +361,7 @@ had connected their scattered units and established complete through
 systems.
 
 All the vexations that had necessarily accompanied railroad traffic in
-the days when each one these systems had been a series of disconnected
+the days when each one of these systems had been a series of disconnected
 roads had disappeared. The grain and meat products of the West,
 accumulating for the most part at Chicago and St. Louis, now came
 rapidly and uninterruptedly to the Atlantic seaboard, and railroad
@@ -529,7 +530,7 @@ intersecting roads along the route. Everybody, together with his
 wife and all his children, came from a distance with all kinds of
 conveyances, being as ignorant of what was coming as their horses, and
 drove up to the road as near as they could get, only looking for the
-best position to get a view of the train. As it approached a the horses
+best position to get a view of the train. As it approached the horses
 took fright and wheeled, upsetting buggies, carriages, and wagons, and
 leaving for parts unknown to the passengers if not to their owners, and
 it is not now positively known if some of them have stopped yet. Such is
@@ -1037,7 +1038,7 @@ The railroad genius identified with the history of the Pennsylvania
 Railroad during the following decade is J. Edgar Thomson. A man of
 vision and of great shrewdness and ability, he was more like the modern
 railroad head of the Ripley or Underwood type than of the Vanderbilt,
-Garrett, or Drew type. His interest was never in the stock market nor in
+Garrett, or Drew type. His interest was never in the stock-market nor in
 the speculative side of railroading but was concentrated entirely on
 the development and operation of the Pennsylvania Railroad system.
 His dreams were not of millions quickly made nor of railroad dominance
@@ -1498,7 +1499,7 @@ become more and more depressed.
 Then the blow fell. Drew laid his hands on the collateral which he held
 for his loan to the Erie. In the twinkling of an eye his $3,000,000 in
 Erie bonds was converted into Erie stock, which he proceeded to dump
-in Wall Street. Eric quotations fell from 90 to 50. Every one at
+in Wall Street. Erie quotations fell from 90 to 50. Every one at
 last realized the trap--but not before Daniel Drew had pocketed a few
 millions in profits.
 
@@ -1589,7 +1590,7 @@ shifted his character, became counsel for both sides, and drew up a
 contract leasing the line to the Erie for 499 years, the Erie agreeing
 to guarantee the bonds in consideration. These men then reappeared as
 directors of the Erie and ratified the lease. After that it was a simple
-matter to divide the loot. The Erie was thus saddled with a $9,000,000
+matter to divide the loot. The Erie was thus saddled with a $2,000,000
 mortgage at seven per cent in addition to a further issue of capital
 stock.
 
@@ -1780,7 +1781,7 @@ As a part of the general settlement the Boston interests were relieved
 of their $5,000,000 of largely worthless bonds of the Boston,
 Hartford and Erie Railroad, for which they received $4,000,000 of Erie
 securities. Thus in all about $9,000,000 in cash or securities was drawn
-out of the Erie treasury in final settlement of this great stock market
+out of the Erie treasury in final settlement of this great stock-market
 manipulation. And this does not include the pickings of Gould and Fisk
 and the smaller fry, of which there is no official record. But that
 these gentlemen did not go empty-handed there is not the shadow of a
@@ -2341,7 +2342,7 @@ owned large blocks of stock in each other's properties, this common
 association would ipso facto end the competition that, if continued,
 would ultimately ruin them all. The Supreme Court had decided that the
 "pooling" arrangements which had so long prevailed among great competing
-roads violated the Sherman AntiTrust Act; and the American public, which
+roads violated the Sherman Anti-Trust Act; and the American public, which
 now was cultivating a new interest in railroad problems, believed that
 the "community of interest" plan was merely a scheme to defeat the
 Interstate Commerce Act and the Sherman Act and to maintain secretly all
@@ -2360,7 +2361,7 @@ but was only a western extension of that system. Harriman in August,
 old Garrett property and thus obtained virtual control.
 
 At this same time the Baltimore and Ohio had been developing a
-"community of interest" plan on its own account. In the year 1908, it
+"community of interest" plan on its own account. In the year 1903, it
 acquired a substantial stock interest in the newly reorganized Reading
 Company, which controlled the Philadelphia and Reading Railroad and
 the Philadelphia and Reading Coal and Iron Company. It did not obtain
@@ -2578,7 +2579,7 @@ The saving of six months of the allotted time for completing the road
 no doubt increased its cost to the builders, for at times they borrowed
 money in the East at rates as high as 18 and 19 per cent. Besides, in
 pushing the line far beyond the bounds of civilization without
-waiting for the slower pace of. the settler and the security which his
+waiting for the slower pace of the settler and the security which his
 protection afforded, it often became necessary for half the total number
 of workmen to stand guard and thus reduce the working capacity of
 the construction force. Even so, hundreds were killed by the Indians.
@@ -2959,7 +2960,7 @@ Pacific on the ground that its territory was too sparsely settled and
 that there was little hope for its future, especially as its partial
 control by the United States Government made any reorganization
 extremely difficult. The new plan for the Northern Pacific was carried
-out with no regard to the Hill interests the old stockholders were
+out with no regard to the Hill interests: the old stockholders were
 heavily assessed; all bondholders were forced to make sacrifices;
 the Wisconsin Central lines were entirely eliminated and separately
 reorganized; and the Oregon lines were dissociated from the Northern
@@ -2968,7 +2969,7 @@ Pacific and afterwards returned to the control of the new Union Pacific.
 While the new Northern Pacific as reorganized in 1898 came directly
 under Morgan's control and was immediately classed as a Morgan property,
 it did not remain exclusively such for very long. In the promotion and
-development of the Great Northern system; Hill had hitherto maintained
+development of the Great Northern system, Hill had hitherto maintained
 an independent position so far as banking alliances were concerned, but
 he now began to develop closer relations with the Morgans and
 became heavily interested in the First National Bank of New York,
@@ -3010,7 +3011,7 @@ to retain and strengthen their control, brought about the corner.
 The Northern Securities Company was designed to harmonize all interests
 and to keep the control of the Burlington property jointly in the hands
 of Harriman and Hill. But as the result of a suit under the Sherman
-AntiTrust Act, this combination was declared illegal, and in 1904 the
+Anti-Trust Act, this combination was declared illegal, and in 1904 the
 company was dissolved. The final outcome of the situation was that the
 Northern Pacific, sharing with the Great Northern the joint control
 of the Burlington lines, was left indisputably in the hands of the
@@ -3162,7 +3163,7 @@ Santa Fe was to be met by an extension of the Southern Pacific line from
 Mojave, California.
 
 This arrangement proved unprofitable to the Santa Fe, for the Southern
-Pacific naturally diverted traffic to El Paso and Ogden, A new
+Pacific naturally diverted traffic to El Paso and Ogden. A new
 arrangement was accordingly made in 1884, involving the purchase, by the
 Atlantic and Pacific, of the Southern Pacific division between Needles
 and Mojave, the obtaining of trackage rights between Mojave and
@@ -3288,7 +3289,7 @@ controlling the St. Paul and Pacific was even amusing.
 Now the most promising part of the St. Paul and Pacific when it failed
 in 1873 was the line from St. Paul to Breckenridge on the Red River.
 Hill was the Mississippi steamboat agent at one end; at the other, an
-old Hudson Bay trader, Norman W. Kittson, ran two little old sternwheel
+old Hudson Bay trader, Norman W. Kittson, ran two little old stern-wheel
 steamboats from Breckenridge to Winnipeg. A large part of the freight
 that Hill and Kittson handled was for the Hudson's Bay Company. It
 came up the Mississippi, went across on the St. Paul and Pacific to
@@ -3323,7 +3324,7 @@ Donald Smith is always talking about."
 
 When they arrived in St. Paul, James J. Hill took them over the line
 to Breckenridge. The country had been scoured by the grasshoppers and
-looked like the top of an old rusty stove. But Stephen was a broadminded
+looked like the top of an old rusty stove. But Stephen was a broad-minded
 man, wise enough to know that the pest of grasshoppers could not last
 forever. He was greatly impressed with the ultimate possibilities of the
 soil and, under the hypnotic influence of Hill's eloquence, became quite
@@ -4231,7 +4232,7 @@ years of railroad history, may now satisfactorily explain this curious
 circumstance; but it is not surprising that the farmer of the early
 seventies, overburdened with debt and burning his own corn for fuel
 because he could not pay the freight exacted for hauling it to market,
-saw in the system, only an attempt to plunder. Yet even the shippers
+saw in the system only an attempt to plunder. Yet even the shippers
 at terminal points had their grievances, for the competition at these
 points became so savage and so ruinous that the roads soon entered
 into agreements fixing rates or formed "pools." In accordance with
@@ -4240,7 +4241,7 @@ the natural property of the roads constituting the pool; it was then
 allotted to different lines according to a percentage agreement, and the
 profits were divided accordingly. As the purpose of rate agreements
 and pools was to stop competition and to keep up prices, it is hardly
-surprising that they were not popular in the Communities which they
+surprising that they were not popular in the communities which they
 affected. The circumstance that, after solemnly entering into pools,
 the allied roads would frequently violate their agreements and cut rates
 surreptitiously merely added to the general confusion.
@@ -4301,10 +4302,10 @@ a political agitation which spread with increasing force in the next
 forty years and in recent times eventually gained the ascendency in both
 the old political parties.
 
-The panic of 1873, and the unusually hard times that followed added fuel
+The panic of 1873 and the unusually hard times that followed added fuel
 to the flame. It was about this time that the Patrons of Husbandry gave
 evidences of a new vitality, chiefly manifested in a rapidly increasing
-membership. On May 19,1873, there were 3360 Granges in the United
+membership. On May 19, 1873, there were 3360 Granges in the United
 States, while nineteen months later, on January 1, 1875, there were
 21,697, with a total membership of over seven hundred thousand. In the
 Eastern States the movement had made little progress; in the South it
@@ -4431,7 +4432,7 @@ policy in dealing with the railroad question. They are particularly
 worthy of study by those who have regarded the Supreme Court as the
 bulwark of social injustice and as a body which can always be relied
 upon to protect the rights of property against the interests of the
-masses. In its railroad decisions this change hardly holds; for these
+masses. In its railroad decisions this charge hardly holds; for these
 Granger cases sustain practically all the legal contentions made by the
 Granger legislatures. * The cases fixed for all time the point that
 a State, acting under the police power, may regulate the charges of a
